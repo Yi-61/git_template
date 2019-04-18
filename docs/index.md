@@ -108,7 +108,7 @@ b.) `python setup.py develop`
 The choices of input to `setup` in setup.py should be for the most part self-explanatory.  If there are additional dependencies for your repo, add them to the "install requires" list.  If you don't want the latest version of a dependency by default, you can require a specific version by using the "==".  
 For example:
 ```python
-install_requires=['numpy', 'tensorflow=1.13.1'],
+install_requires=['numpy', 'tensorflow==1.13.1'],
 ```
 
 #### Packaging rules of thumb ####
@@ -222,7 +222,7 @@ You can use these examples in the `git_template` to setup unit tests for your ow
 ## Continuous integration ##
 You can have a remote server automatically pull your repo, build it, and run your unit tests with a free service (for public repos) provided by [Travic CI](https://travis-ci.org/){:target="_blank"}.  This practice of automatically validating builds and tests regularly throughout development is called continuous integration.  Continuous integration is setup for the `git_template` repo, and the latest build result can be found here: [https://travis-ci.org/cunningham-lab/git_template](https://travis-ci.org/cunningham-lab/git_template){:target="_blank"}.
 
-To set up continous integration for your public repo with Travis CI (you will have to go through these steps if you want continuous integration for an imported git_template):
+To setup continous integration for your public repo with Travis CI (you will have to go through these steps if you want continuous integration for an imported git_template):
 1. Go to [https://travis-ci.org/](https://travis-ci.org/){:target="_blank"} .
 2. Sign in with your Github account.
 3. Select add new repository on the left.
@@ -247,7 +247,7 @@ Finally, edit the url for the build status sticker in the README.md to point to 
 `<a href="https://travis-ci.org/<owner name>/<repo name>"><img alt="Build Status" src="https://travis-ci.org/<owner name>/<repo name>.svg?branch=master"></a>`
 
 #### Continuous integration rules of thumb ####
-* Setup email settings to notify you of failed builds.
+* Setup email notifications for failed builds.
 * For responsive build checks, reduce computation necessary for unit tests.
 * Long time-scale method/algorithm validation is likely best done outside of a continuous integration framework.
 
