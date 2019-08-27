@@ -12,7 +12,7 @@ layout: default
 </div>
 
 # Professional coding practices #
-This semester, we had a discussion on professional coding practices in python.  I’ve compiled these ideas into a template repo, which can get you off the ground with gitpage documentation, packaging, unit testing, and continuous integration.  On this gitpage, I'll explain the functionality of the template, and how to adapt the it for your project.  The end of each section contains tips and rules of thumb for each topic.
+This semester, we had a discussion on professional coding practices in python.  I’ve compiled these ideas into a template repo, which can get you off the ground with gitpage documentation, packaging, unit testing, and continuous integration.  On this gitpage, I'll explain the functionality of the template, and how to adapt it for your project.  The end of each section contains tips and rules of thumb for each topic.
 
 
 ## Using the template ##
