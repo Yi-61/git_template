@@ -8,6 +8,7 @@ layout: default
   <a href="../git_template/">Home</a>
   <a href="page2">Docs</a>
   <a class="active" href="#">Tutorial</a>
+  <a href="page4">Internal</a>
 </div>
 
 You could put a tutorial for using your project here.

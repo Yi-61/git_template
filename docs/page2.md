@@ -8,6 +8,7 @@ layout: default
   <a href="../git_template/">Home</a>
   <a class="active" href="#">Docs</a>
   <a href="page3">Tutorial</a>
+  <a href="page4">Internal</a>
 </div>
 
 You could put documentation for a library here. Example: [https://cunningham-lab.github.io/dsn/systems/](https://cunningham-lab.github.io/dsn/systems/).

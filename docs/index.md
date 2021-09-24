@@ -9,9 +9,9 @@ layout: default
   <a class="active" href="#">Home</a>
   <a href="../git_template/page2">Docs</a>
   <a href="../git_template/page3">Tutorial</a>
+  <a href="../git_template/page4">Internal</a>
 </div>
 
-# Group Meeting Notes 9/24/21
  
 
 # Professional coding practices #
