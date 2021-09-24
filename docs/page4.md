@@ -13,9 +13,14 @@ layout: default
 
 Starting in Fall 2021, we are reviving the Zebroid group meeting. Today (9/24/21) we will have an organizational meeting to discuss the format, content, and intention of having these group meetings.  
 
+## Agenda: 
+- Motivations 
+- Implementing Motivations
+- Must-Do Logistics
+
 ## Motivations 
 
-Over the course of the past year, I have seen that meetings are a lot easier when it's explicitly clear to me what I'm getting out of the meeting before I even start. What do we each individually want to get out of a group meeting?   
+Over the course of the past year, I have seen that meetings are a lot easier when it's explicitly clear to me what I'm getting out of the meeting before I even start. What do we each individually want to get out of a group meeting? How can it fit in with the way that we are doing work now?  
 
 My personal list: 
 
@@ -25,7 +30,7 @@ My personal list:
 - Developing a new skill  
 - Building a shared knowledge base  
 
-*[Will be replaced by whole group list will go here after meeting]*
+*[Will be replaced by whole group list after meeting]*
 
 ## Implementing motivations 
 
@@ -44,12 +49,12 @@ With a shared set of motivations in hand, how can we make plans for a group meet
     - Journal Club 
     - Paper blog 
     - Documenting interesting papers, packages, in a shared repository 
-    - Building out this repo to encompass practical implementation of software best practices in daily work. 
+    - Building out this repo to encompass practical implementation of software best practices in daily work. ("Software Skills for CTN?")
 
 *[Will be replaced with whole group list after meeting]*
 
 
-## Logistics 
+## Must-Do Logistics 
 
 Things we have to figure out for sure: 
 
