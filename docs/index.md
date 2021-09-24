@@ -11,6 +11,9 @@ layout: default
   <a href="../git_template/page3">Tutorial</a>
 </div>
 
+# Group Meeting Notes 9/24/21
+ 
+
 # Professional coding practices #
 This semester, we had a discussion on professional coding practices in python.  I’ve compiled these ideas into a template repo, which can get you off the ground with gitpage documentation, packaging, unit testing, and continuous integration.  On this gitpage, I'll explain the functionality of the template, and how to adapt it for your project.  The end of each section contains tips and rules of thumb for each topic.
 
